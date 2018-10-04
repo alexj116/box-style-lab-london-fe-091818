@@ -8,6 +8,8 @@ body, html {
   text-align: center;
 }
 
+body {
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
